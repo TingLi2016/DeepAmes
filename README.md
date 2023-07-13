@@ -1,5 +1,5 @@
 # DeepAmes
-#### DeepAmes provides a deep learning-powered Ames test predictive model for predicting the results of Ames tests.
+#### DeepAmes provides deep learning-powered Ames test predictive models for predicting the results of Ames tests.
 
 ### Script
   - base_knn.py (develop KNN base classifiers)
